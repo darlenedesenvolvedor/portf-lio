@@ -180,7 +180,7 @@ aside{
    
 }
 
-@media only screen and (max-width: 414px)  {
+@media only screen and (max-width: 768px)  {
 
     /*====================Inicio====================*/
 
@@ -279,7 +279,7 @@ aside{
     
 }
 
-@media only screen and (max-width: 414px){
+@media only screen and (max-width: 768px){
 
     /*================Sobre-mim ================*/
 
@@ -384,7 +384,7 @@ aside{
 }
 
 
-@media only screen and (max-width: 414px){
+@media only screen and (max-width: 768px){
 
     /*===============Serviços================*/
 
@@ -456,7 +456,7 @@ aside{
     border-radius: 10px;
 }
 
-@media only screen and (max-width: 414px){
+@media only screen and (max-width: 768px){
 
     
     .img-projetos img{
@@ -521,7 +521,7 @@ aside{
     transition-duration: 0.9s;
 }
 
-@media only screen and (max-width: 414px){
+@media only screen and (max-width: 768px){
 
     .C-rodapé form input:last-child{
         width: 100px;
